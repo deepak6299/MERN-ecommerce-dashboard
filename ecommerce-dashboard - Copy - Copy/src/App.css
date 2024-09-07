@@ -1,0 +1,30 @@
+.productListing{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+.card{
+  margin:20px 15px;
+}
+.card-img-top{
+  height: 286px;
+}
+.addProductForm{
+  width: 40%;
+  margin: auto;
+
+}
+.row{
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.searchBox{
+  display: flex;
+  justify-content: center;
+}
+.searchBox input{
+  width: 70%;
+}
